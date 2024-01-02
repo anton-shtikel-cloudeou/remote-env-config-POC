@@ -8,7 +8,7 @@ Accorring to such repository, your `bdd.config` should have such credentials
 {
   "projectName": "remote-env-config-POC",
   "remoteEnvConfig": {
-    "repository": "Organisation",
+    "repository": "anton-shtikel-cloudeou",
     "repositoryToken": "your_token"
   }
 }
