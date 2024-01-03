@@ -2,13 +2,14 @@
 
 Here is an example of remote repository specification
 
-Accorring to such repository, your `bdd.config` should have such credentials 
+Based on exising repository your `bdd.config` should have such credentials 
 
 ```json
 {
-  "projectName": "remote-env-config-POC",
+  "projectName": "test-project",
   "remoteEnvConfig": {
-    "repository": "anton-shtikel-cloudeou",
+    "owner": "anton-shtikel-cloudeou",
+    "repository": "remote-env-config-POC",
     "repositoryToken": "your_token"
   }
 }
